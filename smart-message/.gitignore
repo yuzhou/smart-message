@@ -1,0 +1,9 @@
+#忽略掉eclipse工程文件
+*.classpath
+*.project
+#忽略掉eclipse工程相关文件夹
+/.settings
+#忽略掉maven的目标工程文件
+/target
+#忽略掉.gitignore的编辑文件
+.gitignore~
